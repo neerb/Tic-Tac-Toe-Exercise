@@ -1,0 +1,6 @@
+A:\Second Desktop\C# Projects\TicTacToe Exercise\TicTacToe Exercise\bin\Debug\TicTacToe Exercise.exe.config
+A:\Second Desktop\C# Projects\TicTacToe Exercise\TicTacToe Exercise\bin\Debug\TicTacToe Exercise.exe
+A:\Second Desktop\C# Projects\TicTacToe Exercise\TicTacToe Exercise\bin\Debug\TicTacToe Exercise.pdb
+A:\Second Desktop\C# Projects\TicTacToe Exercise\TicTacToe Exercise\obj\Debug\TicTacToe Exercise.csprojResolveAssemblyReference.cache
+A:\Second Desktop\C# Projects\TicTacToe Exercise\TicTacToe Exercise\obj\Debug\TicTacToe Exercise.exe
+A:\Second Desktop\C# Projects\TicTacToe Exercise\TicTacToe Exercise\obj\Debug\TicTacToe Exercise.pdb
